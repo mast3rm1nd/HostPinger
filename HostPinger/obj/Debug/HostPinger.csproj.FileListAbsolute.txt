@@ -1,0 +1,9 @@
+C:\Dropbox\!Coding\All_in_one\HostPinger\HostPinger\bin\Debug\HostPinger.exe.config
+C:\Dropbox\!Coding\All_in_one\HostPinger\HostPinger\bin\Debug\HostPinger.exe
+C:\Dropbox\!Coding\All_in_one\HostPinger\HostPinger\bin\Debug\HostPinger.pdb
+C:\Dropbox\!Coding\All_in_one\HostPinger\HostPinger\obj\Debug\HostPinger.csprojResolveAssemblyReference.cache
+C:\Dropbox\!Coding\All_in_one\HostPinger\HostPinger\obj\Debug\HostPinger.Form1.resources
+C:\Dropbox\!Coding\All_in_one\HostPinger\HostPinger\obj\Debug\HostPinger.Properties.Resources.resources
+C:\Dropbox\!Coding\All_in_one\HostPinger\HostPinger\obj\Debug\HostPinger.csproj.GenerateResource.Cache
+C:\Dropbox\!Coding\All_in_one\HostPinger\HostPinger\obj\Debug\HostPinger.exe
+C:\Dropbox\!Coding\All_in_one\HostPinger\HostPinger\obj\Debug\HostPinger.pdb
